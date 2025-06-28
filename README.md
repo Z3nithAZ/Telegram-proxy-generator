@@ -16,8 +16,11 @@ https://t.me/Sillybashuser
 
  **pkg install git -y**
 ---------------------------------------
- **git clone https://github.com/Z3nithAZ/Telegram-proxy-generator** رو تو محیط ترموکس پیست کنید و اینتر بزنید و بزارید نصب بشه
+ **git clone https://github.com/Z3nithAZ/Telegram-proxy-generator** 
+ رو تو محیط ترموکس پیست کنید و اینتر بزنید و بزارید نصب بشه
 ---------------------------------------
- **cd Telegram-proxy-generator** رو وارد کنید و اینتر بزنید
+ **cd Telegram-proxy-generator** 
+ 
+رو وارد کنید و اینتر بزنید
  ---------------------------------------
 **bash Proxy.sh** رو وارد کنید و اینتر بزنید
